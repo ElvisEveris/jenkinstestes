@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.alura</groupId>
-	<artifactId>leilao</artifactId>
+	<artifactId>leilaojenkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>leilao</name>
+	<name>leilaojenkins</name>
 
 	<properties>
 		<maven.compiler.version>3.8.1</maven.compiler.version>
